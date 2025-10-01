@@ -1,7 +1,6 @@
 # Heart-Attack-Prediction-Model
 
-**Machine learning model to predict heart attack risk** — a reproducible project that trains a classifier on the included `heart.csv` dataset and achieves ~**91%** accuracy (as reported in the notebook).
-
+**Machine learning model to predict heart attack risk** — a reproducible project that trains a classifier on the included `heart.csv` dataset and achieves ~**91%** accuracy 
 ---
 
 ## 🔍 Project overview
