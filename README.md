@@ -17,12 +17,6 @@ This repo contains a Jupyter notebook (`HeartAttack_prediction_Project_Epics.ipy
 
 ---
 
-## 📁 Repository structure
-
-├── HeartAttack_prediction_Project_Epics.ipynb # Jupyter notebook with full analysis & model training
-├── heart.csv # Dataset (features + target)
-└── README.md # (this file)
-
 
 📈 Model & Results
 
